@@ -21,4 +21,4 @@ The create process may spent 5 mins,Please be patient.
 
 # 注意！
 这个过程可能会花费5分钟左右，请耐心等待
-##如果你有更好的方法，请告诉我，谢谢！
+## 如果你有更好的方法，请告诉我，谢谢！
