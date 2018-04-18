@@ -1,5 +1,6 @@
 # Random 3D qr code 
 A  script on fusion360 to build a qRcode 3Dmode
+![example](https://github.com/EgbertJiang/Random3DQrcode_Fusion360/blob/master/pic.jpg?raw=true)
 
 # How to use it
 1. Unzip the file and record the path
