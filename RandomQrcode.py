@@ -11,7 +11,7 @@ import pyqrcode,random
 import adsk.core, adsk.fusion, traceback
 
 
-  
+global ui
 app= None
 ui= None
 
@@ -155,7 +155,6 @@ def run(context):
     try:
         global app
         app = adsk.core.Application.get()
-        global ui
         ui = app.userInterface
 
         global commandId
